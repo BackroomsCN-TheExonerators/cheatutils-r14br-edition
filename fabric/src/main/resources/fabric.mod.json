@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "id": "cheatutils",
+  "id": "r14utils",
   "version": "${version}",
 
-  "name": "CheatUtils",
-  "description": "Open http://localhost:5005/ in your browser to access mod settings.\nYou can find tutorial videos on curseforge page: https://www.curseforge.com/minecraft/mc-mods/cheatutils-by-zergatul\nSource code: https://github.com/Zergatul/cheatutils",
+  "name": "R14Utils",
+  "description": "Open http://localhost:5005/ in your browser to access mod settings.",
   "authors": [
     "Zergatul"
   ],
